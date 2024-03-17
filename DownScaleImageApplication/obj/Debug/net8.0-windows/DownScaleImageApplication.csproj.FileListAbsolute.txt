@@ -1,0 +1,16 @@
+D:\UNI\4 kurs\sem 2\pp\hw\DownScaleImageApplication\bin\Debug\net8.0-windows\DownScaleImageApplication.exe
+D:\UNI\4 kurs\sem 2\pp\hw\DownScaleImageApplication\bin\Debug\net8.0-windows\DownScaleImageApplication.deps.json
+D:\UNI\4 kurs\sem 2\pp\hw\DownScaleImageApplication\bin\Debug\net8.0-windows\DownScaleImageApplication.runtimeconfig.json
+D:\UNI\4 kurs\sem 2\pp\hw\DownScaleImageApplication\bin\Debug\net8.0-windows\DownScaleImageApplication.dll
+D:\UNI\4 kurs\sem 2\pp\hw\DownScaleImageApplication\bin\Debug\net8.0-windows\DownScaleImageApplication.pdb
+D:\UNI\4 kurs\sem 2\pp\hw\DownScaleImageApplication\obj\Debug\net8.0-windows\DownScaleImageApplication.Form1.resources
+D:\UNI\4 kurs\sem 2\pp\hw\DownScaleImageApplication\obj\Debug\net8.0-windows\DownScaleImageApplication.csproj.GenerateResource.cache
+D:\UNI\4 kurs\sem 2\pp\hw\DownScaleImageApplication\obj\Debug\net8.0-windows\DownScaleImageApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\4 kurs\sem 2\pp\hw\DownScaleImageApplication\obj\Debug\net8.0-windows\DownScaleImageApplication.AssemblyInfoInputs.cache
+D:\UNI\4 kurs\sem 2\pp\hw\DownScaleImageApplication\obj\Debug\net8.0-windows\DownScaleImageApplication.AssemblyInfo.cs
+D:\UNI\4 kurs\sem 2\pp\hw\DownScaleImageApplication\obj\Debug\net8.0-windows\DownScaleImageApplication.csproj.CoreCompileInputs.cache
+D:\UNI\4 kurs\sem 2\pp\hw\DownScaleImageApplication\obj\Debug\net8.0-windows\DownScaleImageApplication.dll
+D:\UNI\4 kurs\sem 2\pp\hw\DownScaleImageApplication\obj\Debug\net8.0-windows\refint\DownScaleImageApplication.dll
+D:\UNI\4 kurs\sem 2\pp\hw\DownScaleImageApplication\obj\Debug\net8.0-windows\DownScaleImageApplication.pdb
+D:\UNI\4 kurs\sem 2\pp\hw\DownScaleImageApplication\obj\Debug\net8.0-windows\DownScaleImageApplication.genruntimeconfig.cache
+D:\UNI\4 kurs\sem 2\pp\hw\DownScaleImageApplication\obj\Debug\net8.0-windows\ref\DownScaleImageApplication.dll
